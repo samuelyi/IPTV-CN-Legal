@@ -113,9 +113,9 @@ http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视资讯台",凤凰资讯
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
+#EXTINF:-1,"凤凰卫视香港台",凤凰香港
+http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 #EXTINF:-1 tvg-name="茶频道",茶友频道
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓 
 rtp://239.3.1.164:8001
-#EXTINF:-1,"足球频道",足球频道
-http://hdtv.haust.edu.cn/hls/zqhd.m3u8
