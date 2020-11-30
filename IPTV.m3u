@@ -57,8 +57,6 @@ http://hdtv.haust.edu.cn/hls/btv8hd.m3u8
 http://hdtv.haust.edu.cn/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-name="北京纪实",冬奥纪实
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-name="卡酷动画",卡酷少儿
-rtp://239.3.1.189:8000
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 rtp://239.3.1.136:8032
 #EXTINF:-1 tvg-name="上海纪实",纪实人文
@@ -109,3 +107,7 @@ http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-name="CGTNDocumentary",环球纪实
 http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
+#EXTINF:-1,tvg-name="快乐垂钓",快乐垂钓
+rtp://239.3.1.164:8001
+#EXTINF:-1,tvg-name="茶频道",茶友频道 
+rtp://239.3.1.165:8001
