@@ -109,13 +109,3 @@ http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-name="CGTNDocumentary",环球纪实
 http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视中文台",凤凰中文 
-http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视资讯台",凤凰资讯
-http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1 tvg-name="茶频道",茶友频道
-rtp://239.3.1.165:8001
-#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓 
-rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="足球频道",足球频道 
-http://hdtv.haust.edu.cn/hls/zqhd.m3u8
