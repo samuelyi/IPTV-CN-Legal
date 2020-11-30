@@ -117,5 +117,4 @@ http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓 
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="足球频道",足球频道 
-http://hdtv.haust.edu.cn/hls/zqhd.m3u8
+
