@@ -109,6 +109,8 @@ http://ivi6.bupt.edu.cn/hls/hnhd.m3u8
 http://ivi6.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",高清电影
 http://ivi6.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="中国教育1台",中国教育
+rtp//:239.3.1.57:8152
 #EXTINF:-1 tvg-name="CGTN",中国环球
 http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-name="CGTNDocumentary",环球纪实
@@ -121,3 +123,7 @@ http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-name="中数怀旧剧场",怀旧剧场
 http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1 tvg-name="茶频道",茶友频道 
+rtp://239.3.1.165:8001
+#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓 
+rtp//:239.3.1.164:8001
