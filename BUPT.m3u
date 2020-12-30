@@ -39,6 +39,8 @@ http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="BTV影视",北京影视
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="卡酷动画",卡酷少儿
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
